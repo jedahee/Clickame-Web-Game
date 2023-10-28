@@ -4,7 +4,6 @@ window.onload = () => {
     text = document.querySelector(".text");
     timeDOM = document.querySelector(".time");
     record = document.querySelector(".record");
-    divWapo = document.querySelector(".divWapo");
     clicks = document.querySelector(".clicks");
     reset = document.querySelector(".reset");
 
@@ -92,10 +91,7 @@ function updateCountdown() {
         if (score > localStorage.getItem("bestScore")) {
             localStorage.setItem("bestScore", score);
             record.innerText = "Récord: " + localStorage.getItem("bestScore");
-            divWapo.classList.add("mostrar");
-            setTimeout(() => {
-                divWapo.classList.remove("mostrar");
-            }, 3000);
+
         }
 
         reset.style.backgroundColor = "#949494";
