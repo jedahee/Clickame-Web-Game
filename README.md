@@ -1,6 +1,6 @@
 # Clickame
 
-_Clickame is a web game where you measure the number of clicks you can make per second. _
+_Clickame is a web game where you measure the number of clicks you can make per second._
 
 ## Getting Started 🚀
 
@@ -40,8 +40,9 @@ _This project is not open for new contributions_
 
 ## Versioning 📌
 
-_This is the only version_
-_I used [Git](https://git-scm.com/) and GitHub for the versioning of this project_
+_This is the only version._
+
+_I used [Git](https://git-scm.com/) and [GitHub](https://github.com/) for the versioning of this project_
 
 ## Authors ✒️
 
