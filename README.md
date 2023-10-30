@@ -26,8 +26,9 @@ git clone https://github.com/jedahee/Clickame-Web-Game.git)
 
 ## Deployment 📦
 
-_Este proyecto no está desplegado todavía. 
-For easy deployment, you can use hosting such as Github Pages, Netlify, Vercel, etc._
+_Este proyecto no está desplegado todavía._
+
+_For easy deployment, you can use hosting such as Github Pages, Netlify, Vercel, etc._
 
 ## Built With 🛠️
 
