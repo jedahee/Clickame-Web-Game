@@ -18,7 +18,7 @@ _You must have any supported browser (Chrome, Firefox, Safari, etc)._
 
 _These are the next steps to be able to execute the project in your local environment:_
 
-_You can use Git or Github to clone the project in a local environment. You can use Git or Github to clone the project in a local environment. If you use Github you must click on the button that says 'Code' and then on 'Download Zip'. But if you use Git you can use the following command:_
+_You can use Git or Github to clone the project in a local environment. If you use Github you must click on the button that says 'Code' and then on 'Download Zip'. But if you use Git you can use the following command:_
 
 ```
 git clone https://github.com/jedahee/Clickame-Web-Game.git)
