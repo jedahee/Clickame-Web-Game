@@ -10,7 +10,7 @@ See **Deployment** for how to deploy the project.
 
 ### Prerequisites 📋
 
-_You must have any supported browser (Chrome, Firefox, Safari, etc). _
+_You must have any supported browser (Chrome, Firefox, Safari, etc)._
 
 ### Installing 🔧
 
