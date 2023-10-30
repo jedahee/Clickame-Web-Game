@@ -2,7 +2,7 @@
 
 _Clickame is a web game where you measure the number of clicks you can make per second._
 
-![image](https://github.com/jedahee/Clickame-Web-Game/assets/56111700/45b5131c-1a4c-4434-a45c-f92808e07b71)
+![image](https://github.com/jedahee/Clickame-Web-Game/assets/56111700/fad31701-bcaa-42e4-867d-6ccadabe0afd)
 
 ## Getting Started 🚀
 
